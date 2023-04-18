@@ -9,4 +9,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Muzcuk237529&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-![](https://hit.yhype.me/github/profile?user_id=71204774)
